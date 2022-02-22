@@ -160,11 +160,9 @@ Eragon and Saphira left Alagaësia, so if we do hear from them, it will be short
 
 ### The Antagonist Will Be Something Ancient
 
-<figure class="wp-block-embed aligncenter is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> .[@andigarmendia](https://twitter.com/andigarmendia?ref_src=twsrc%5Etfw) Everyone in Alagaësia has overlooked something really, really important with regard to the new peace they hope to establish.
-> 
-> — Christopher Paolini (@paolini) [March 24, 2015](https://twitter.com/paolini/status/580197508040646656?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/andigarmendia?ref_src=twsrc%5Etfw">@andigarmendia</a> Everyone in Alagaësia has overlooked something really, really important with regard to the new peace they hope to establish.</p>&mdash; Christopher Paolini (@paolini) <a href="https://twitter.com/paolini/status/580197508040646656?ref_src=twsrc%5Etfw">March 24, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Now, Chris’ statement is pretty vague here, so I’m assuming it’s someone we haven’t heard of yet. If it *is* someone we know about then my best guess is the Grey Folk.
+Now, Chris’ statement is pretty vague here, so I’m assuming it’s someone we haven’t heard of yet. If it *is* someone we know about then my best guess is the Grey Folk.
 
 ### We’ll Be Seeing Angela Again
 

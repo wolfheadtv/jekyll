@@ -84,7 +84,7 @@ theme_mode:   # [light|dark]
 img_cdn: images.weserv.nl/?url=
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://i.ibb.co/mrp6Tfn/Mascot-Profile.png
+avatar: https://images.weserv.nl/?url=https%3A%2F%2Fi.ibb.co%2Fmrp6Tfn%2FMascot-Profile.png&w=512&h=512&fit=crop
 
 # boolean type, the global switch for ToC in posts.
 toc: true
