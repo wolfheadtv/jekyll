@@ -21,34 +21,35 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Wolfhead Studios                # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Bred for Adventure            # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  My name's Dennis. I'm an aspiring writer, photographer, videographer, and van-dweller currently applying to the Community College in Austin, TX.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
 
 github:
-  username: github_username             # change to your github username
+  username: wolfhead                   # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: wolfheadtv                 # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Dennis Abernathy Harrison
+  email: dennis@wolfhead.tv             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/wolfheadtv      # change to your twitter homepage
+    # https://github.com/wolfheadtv       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/wolfhead.tv
+    - https://www.instagram.com/wolfheadtv
+    - https://www.linkedin.com/in/wolfheadtv
 
 google_site_verification:               # fill in to your verification string
 
@@ -80,10 +81,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: images.weserv.nl/?url=
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://i.ibb.co/mrp6Tfn/Mascot-Profile.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
